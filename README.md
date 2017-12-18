@@ -14,3 +14,12 @@ Puedo dar formato en *cursiva* y en **negrita**
 Web gregorio fernandez [aqui](http://gregoriofer.com/)
 
 Tienes que hacer `System.out.println("Hola Mundo")` en tu primer codigo en java.
+
+Prueba de fragmento de codigo
+```
+do{
+int x = 0;
+System.out.println(x+" ")
+x++;
+} while (x != 10)
+```
